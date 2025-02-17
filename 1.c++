@@ -65,5 +65,6 @@ int s =0;
  int main(){
   priority_queue<int> pq;
   pq.push(1);
+  pq.push(2);
     return 0;
  }
